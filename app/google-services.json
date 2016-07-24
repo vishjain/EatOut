@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "947218654977",
+    "firebase_url": "https://outsideeats-aa026.firebaseio.com",
+    "project_id": "outsideeats-aa026",
+    "storage_bucket": "outsideeats-aa026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947218654977:android:11ec256ce4a4dfe9",
+        "android_client_info": {
+          "package_name": "com.outsidehacks.outsideeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947218654977-nbs7garbl97pbfucf8fcfi768tccaohe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outsidehacks.outsideeats",
+            "certificate_hash": "39050E918CAD6B27606EBBA6E2B4637DF2CBAA2C"
+          }
+        },
+        {
+          "client_id": "947218654977-vjvvv2n9jp8lbb5kbv5uj3gsibssncdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Ab6WBh_I4IM6hK5tN1yo4D9P1nrBSZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
