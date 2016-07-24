@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center_vertical|end"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/menu_vendor_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:paddingEnd="20dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="20dp"
+            android:paddingStart="16dp"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            tools:text="Nombe" />
+
+        <TextView
+            android:id="@+id/menu_total_price_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingEnd="20dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="20dp"
+            android:paddingStart="0dp"
+            android:text="Total: $0.00"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/menu_num_items_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingEnd="20dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="20dp"
+            android:paddingStart="0dp"
+            android:text="0 Items"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/menu_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:listSelector="@android:color/transparent" />
+
+    <TextView
+        android:id="@+id/menu_checkout_button"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="Checkout"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+</LinearLayout>
