@@ -19,4 +19,4 @@ have to stand and wait in long lines at food vendors.
 <b>Slides:</b> https://docs.google.com/presentation/d/1AyhF-VRvG1hkDIarlfxOPq53nXvLBX6q4xWy27MEgTk/edit?usp=sharing
 
 ---
-<b>Design for Android API 15+</b>
+<b>Designed for Android API 15+</b>
