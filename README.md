@@ -12,11 +12,10 @@ have to stand and wait in long lines at food vendors.
 • When you order is ready the OutsideEATS employee will contact you with your phone number.</br>
 
 ---
-### Demo + Slides Presentation
+### Demo
 <b>Customer App Demo:</b> https://www.youtube.com/watch?v=W-uMQdoQcp8</br>
 <b>Delivery Guy App Demo:</b> https://www.youtube.com/channel/UC_pBiXyTlOA6732nnxZi4IQ
 
-<b>Slides:</b> https://docs.google.com/presentation/d/1AyhF-VRvG1hkDIarlfxOPq53nXvLBX6q4xWy27MEgTk/edit?usp=sharing
 
 ---
 <b>Designed for Android API 15+</b>
